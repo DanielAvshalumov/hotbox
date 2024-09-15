@@ -1,10 +1,10 @@
 @font-face {
     font-family: clouds;
-    src: url(C:\Users\Mila\Desktop\Repo\the-hotbox\fonts\alphasmoke\Alphasmoke-OOX6.ttf)
+    src: url('../fonts/alphasmoke/Alphasmoke-OOX6.ttf')
 }
 
 body {
-    background-image: url("C:\Users\Mila\Desktop\Repo\the-hotbox\src\components\subcomponent\blob.svg");
+    background-image: url("./components/subcomponent/blob.svg");
     background-size: 60%;
     background-repeat: repeat-y;
     background-position-x: right;
